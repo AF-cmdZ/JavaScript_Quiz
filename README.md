@@ -2,7 +2,7 @@
 
 This is a timed quiz on JavaScript fundamentals. The user has 60 seconds to complete this 5 question quiz. For every incorrect answer, they will recieve a 10 second deduction. Once the timer reaches zero seconds or all five questions are completed, the quiz will automatically end.
 
-Link to live site:
+Link to live site: https://af-cmdz.github.io/JavaScript_Quiz/
 
 Screen shot of homepage:
 
