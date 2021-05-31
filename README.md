@@ -5,3 +5,5 @@ This is a timed quiz on JavaScript fundamentals. The user has 60 seconds to comp
 Link to live site:
 
 Screen shot of homepage:
+
+![Javascript Quiz homepage](images/screen-shot.png "javascript quiz")
